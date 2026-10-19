@@ -20,7 +20,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "fe111d7f-a0dd-3561-88d1-2408e2bccd87",
-        "name" : "UpdateAttribute",
+        "name" : "new name updater",
         "type" : "PROCESSOR"
       },
       "flowFileExpiration" : "0 sec",
@@ -67,7 +67,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "fe111d7f-a0dd-3561-88d1-2408e2bccd87",
-        "name" : "UpdateAttribute",
+        "name" : "new name updater",
         "type" : "PROCESSOR"
       },
       "zIndex" : 2
@@ -126,6 +126,7 @@
         "File Size" : "0B",
         "Batch Size" : "1",
         "Unique FlowFiles" : "false",
+        "Custom Text" : "aaa bbb ccc ddd",
         "Character Set" : "UTF-8",
         "Data Format" : "Text"
       },
@@ -205,7 +206,7 @@
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "fe111d7f-a0dd-3561-88d1-2408e2bccd87",
       "maxBackoffPeriod" : "10 mins",
-      "name" : "UpdateAttribute",
+      "name" : "new name updater",
       "penaltyDuration" : "30 sec",
       "position" : {
         "x" : 1288.0,
@@ -266,6 +267,6 @@
   "snapshotMetadata" : {
     "author" : "e06c2d3b-554a-4ae7-bbd2-759b2bc035cd",
     "flowIdentifier" : "myFlow",
-    "timestamp" : 1792417889564
+    "timestamp" : 1792418377510
   }
 }
